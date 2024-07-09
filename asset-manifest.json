@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.1607cc54.css",
-    "main.js": "/static/js/main.38a3dbe3.js",
-    "static/js/453.d50c1538.chunk.js": "/static/js/453.d50c1538.chunk.js",
-    "static/media/fundoInicial.png": "/static/media/fundoInicial.d689c9595304eccd2eb9.png",
-    "static/media/Lelove.png": "/static/media/Lelove.8a78465805a9a49f116b.png",
-    "index.html": "/index.html",
-    "main.1607cc54.css.map": "/static/css/main.1607cc54.css.map",
-    "main.38a3dbe3.js.map": "/static/js/main.38a3dbe3.js.map",
-    "453.d50c1538.chunk.js.map": "/static/js/453.d50c1538.chunk.js.map"
+    "main.css": "/teste_git_actions/static/css/main.d80149b5.css",
+    "main.js": "/teste_git_actions/static/js/main.c924b147.js",
+    "static/js/453.d50c1538.chunk.js": "/teste_git_actions/static/js/453.d50c1538.chunk.js",
+    "static/media/fundoInicial.png": "/teste_git_actions/static/media/fundoInicial.d689c9595304eccd2eb9.png",
+    "static/media/Lelove.png": "/teste_git_actions/static/media/Lelove.8a78465805a9a49f116b.png",
+    "index.html": "/teste_git_actions/index.html",
+    "main.d80149b5.css.map": "/teste_git_actions/static/css/main.d80149b5.css.map",
+    "main.c924b147.js.map": "/teste_git_actions/static/js/main.c924b147.js.map",
+    "453.d50c1538.chunk.js.map": "/teste_git_actions/static/js/453.d50c1538.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1607cc54.css",
-    "static/js/main.38a3dbe3.js"
+    "static/css/main.d80149b5.css",
+    "static/js/main.c924b147.js"
   ]
 }
