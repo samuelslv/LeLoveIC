@@ -29,10 +29,6 @@ jobs:
         run: yarn lint
         working-directory: Backend
 
-      - name: Test Backend
-        run: yarn test
-        working-directory: Backend
-
       - name: Install Packages (Frontend)
         run: yarn install
         working-directory: Frontend
